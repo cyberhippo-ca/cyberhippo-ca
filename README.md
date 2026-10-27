@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**cyberhippo-ca/cyberhippo-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John,
 
-Here are some ideas to get you started:
+IT generalist with 17+ years in systems administration, identity and access management, SaaS platform operations, security, MarTech and web development. I've worked across aviation, energy, fintech and professional services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- A homelab for security and IAM practice: OPNsense, Proxmox, Wazuh, Active Directory, Entra ID and Keycloak
+- Write-ups from the lab, posted here as they're ready
+
+## Certificates
+
+- Cyber Security Fundamentals and Advanced, Mount Royal University
+
+## Links
+
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jhilsenteger/)
