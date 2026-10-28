@@ -7,7 +7,7 @@ Systems and identity administrator with 17+ years across SaaS platforms, IAM and
 ## What I'm working on
 
 - A homelab for security and IAM practice: OPNsense, Proxmox, Wazuh, Active Directory, Entra ID and Keycloak
-- Write-ups from the lab, posted here as they're ready
+- Write-ups: [Hardening a personal domain](https://github.com/cyberhippo-ca/domain-hardening) (email spoofing, DNSSEC, HSTS, security headers)
 
 ## Certificates
 
