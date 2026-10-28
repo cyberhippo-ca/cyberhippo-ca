@@ -2,7 +2,7 @@
 
 I'm John,
 
-IT generalist with 17+ years in systems administration, identity and access management, SaaS platform operations, security, MarTech and web development. I've worked across aviation, energy, fintech and professional services.
+Systems and identity administrator with 17+ years across SaaS platforms, IAM and MarTech. I focus on connecting platforms, automating workflows, and securing access through strong identity and governance practices. I've worked across aviation, energy, fintech and professional services.
 
 ## What I'm working on
 
