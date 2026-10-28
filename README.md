@@ -12,6 +12,7 @@ Systems and identity administrator with 17+ years across SaaS platforms, IAM and
 ## Certificates
 
 - Cyber Security Fundamentals and Advanced, Mount Royal University
+- CompTIA Security+ (in progress)
 
 ## Links
 
